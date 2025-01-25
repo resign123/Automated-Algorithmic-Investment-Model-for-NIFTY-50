@@ -2,7 +2,7 @@
 
 ## Overview
 
-"This is a fully automated and backtested algorithmic investment model designed for NIFTY-50 and other multi-asset trading. The model uses a combination of technical indicators and real-time market data to make trading decisions."
+"This is a fully automated and backtested algorithmic investment model designed for trading NIFTY-50 and other multi-asset classes. The model leverages a combination of technical indicators and real-time market data to make informed trading decisions. It integrates with the Fyers trading platform, enabling automated execution of strategies that have been thoroughly backtested. The backtest results are also displayed on the website. Additionally, users can view live, tick-by-tick price updates for the scripts they wish to trade, along with their live P&L, which can be cross-verified with the Fyers terminal."
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/6b45bd14-8760-4cf6-a965-b930dc2b413a)
 
